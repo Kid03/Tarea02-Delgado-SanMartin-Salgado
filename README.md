@@ -9,7 +9,7 @@
 <h2>Descripción de funcionamiento:</h2>
   <p></p>
   <h3>Método de compilación:</h3>
-    <p>estando el terminal abierto, se ubica en la carpeta tarea2, 1° se hace un make clean, y luego un make</p>
+    <p>Estando el terminal abierto, se ubica en la carpeta tarea2, 1° se hace un make clean, y luego un make para asegurarse que no quede ningun binario, por ultimo ./echoServer [<serverPort>].</p>
   <h3>Ejemplos de uso:</h3>
   <h3>  
     <p></p>
