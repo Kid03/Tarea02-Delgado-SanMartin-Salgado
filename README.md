@@ -16,7 +16,7 @@
     <p>[usuario1@localhost ~]$ cd tarea2</p>
     <p>[usuario1@localhost tarea2]$ make clean</p>
     <p>[usuario1@localhost tarea2]$ make</p>
-    <p>[usuario1@localhost tarea2]$ ./echoServer 8080</p>
+    <p>[usuario1@localhost tarea2]$ ./echoServer</p>
     <p>Luego se abre el navegador y se ingresa lo siguiente</p>
     <p>127.0.0.1:8080</p>
     <p>para empezar a pedir los GET, solo se modifica lo sig.</p>
