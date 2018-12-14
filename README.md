@@ -9,7 +9,17 @@
 <h2>Descripción de funcionamiento:</h2>
   <p></p>
   <h3>Método de compilación:</h3>
-    <p>Estando el terminal abierto, se ubica en la carpeta tarea2, 1° se hace un make clean, y luego un make para asegurarse que no quede ningun binario, por ultimo ./echoServer [<serverPort>].</p>
+    <p>estando el terminal abierto, se ubica en la carpeta tarea2, 1° se hace un make clean, y luego un make</p>
+    <p>creando así el ejecutable echoServer, luego se ejecuta con el compando "./echoServer <Server Port> ",donde </p>
+    <p><Server Port> es el numero del servidor, si no se pone nada, por defecto es 8080</p>
   <h3>Ejemplos de uso:</h3>
-  <h3>  
-    <p></p>
+    <p>[usuario1@localhost ~]$ cd tarea2</p>
+    <p>[usuario1@localhost tarea2]$ make clean</p>
+    <p>[usuario1@localhost tarea2]$ make</p>
+    <p>[usuario1@localhost tarea2]$ ./echoServer 8080</p>
+    <p>Luego se abre el navegador y se ingresa lo siguiente</p>
+    <p>127.0.0.1:8080</p>
+    <p>para empezar a pedir los GET, solo se modifica lo sig.</p>
+    <p>127.0.0.1:8080/MODIFICA.html</p>
+    <p>Ejemplo: </p>
+    <p>     127.0.0.1:8080/holamundo.html</p>
