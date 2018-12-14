@@ -1,0 +1,6 @@
+{
+    "ip":"127.0.0.1",
+    "puerto":8080,
+    "root_dir":"www-data/",
+    "notFoundFile":"www-error/404.html"
+}
